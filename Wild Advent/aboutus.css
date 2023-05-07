@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: 0;
+}
+.hea{
+    background-color: mistyrose;
+    color:black;
+    background-size:50px;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+p{
+    padding-top: 20px;
+    font-size:20px;
+    width:100%;
+    height: 150px;
+    margin: 10px;
+}
+img{
+    padding:10px;
+    float:left;
+}
+
+h1{
+    align-items: flex-end;
+}
+hr{
+    size: 10px;
+}
